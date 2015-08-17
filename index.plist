@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xiyi.app</string>
+                <string>H59C55081</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>洗衣</string>
+                <string>xiyi</string>
             </dict>
         </dict>
     </array>
