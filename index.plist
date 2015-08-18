@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>io.dcloud.H59C55081</string>
+                <string>com.denaifu.app1</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>洗衣</string>
+                <string>德奈福</string>
             </dict>
         </dict>
     </array>
