@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://123.57.205.145:8001/ipa/xiyimendian.ipa</string>
+                    <string>http://123.57.205.145:8001/ipa/com.denaifu.app2.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
